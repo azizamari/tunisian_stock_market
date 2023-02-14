@@ -3,8 +3,8 @@ from pathlib import Path
 import scrapy
 
 
-class StocksInfoLinksSpider(scrapy.Spider):
-    name = "stocks_info_links"
+class StocksLinksSpider(scrapy.Spider):
+    name = "stocks_links"
 
     def start_requests(self):
         urls = [
@@ -18,5 +18,5 @@ class StocksInfoLinksSpider(scrapy.Spider):
             name=link[9:]
             yield {
                 'name':name,
-                'link':'https://www.ilboursa.com/marches/aaz/'+link
+                'link':'https://www.ilboursa.com/marches/'+link
             }
