@@ -1,3 +1,4 @@
 **/__pycache__/
 .env
 tunisian_stock_market_scraper/scrape_http_requests/data/
+.ipynb_checkpoints/
