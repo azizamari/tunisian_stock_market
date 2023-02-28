@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 STB,2022-12-01,3.79,3.79,3.75,3.79,3002
 STB,2022-12-02,3.79,3.79,3.77,3.79,326
 STB,2022-12-05,3.78,3.79,3.78,3.78,2895

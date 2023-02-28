@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 TINV,2022-12-01,7.09,7.09,6.91,7.09,4
 TINV,2022-12-07,7.08,7.08,6.78,7.08,245
 TINV,2022-12-12,7.07,7.08,6.78,7.07,277

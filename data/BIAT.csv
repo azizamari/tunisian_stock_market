@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 BIAT,2022-12-01,87.3,88.4,87.3,87.3,2899
 BIAT,2022-12-02,86.55,87.3,86.55,86.55,980
 BIAT,2022-12-05,87.65,87.65,86.4,87.65,12026

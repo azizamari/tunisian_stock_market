@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 STAR,2022-12-01,154.0,154.0,154.0,154.0,20
 STAR,2022-12-02,154.0,154.0,154.0,154.0,127610
 STAR,2022-12-05,156.0,156.0,154.0,156.0,300

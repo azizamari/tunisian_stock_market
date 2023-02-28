@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 TBIDX,2022-12-01,175.13,175.13,175.13,175.13,0
 TBIDX,2022-12-02,175.19,175.19,175.19,175.19,0
 TBIDX,2022-12-05,175.32,175.32,175.32,175.32,0

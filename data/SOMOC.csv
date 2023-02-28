@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SOMOC,2022-12-01,0.82,0.82,0.8,0.82,3139
 SOMOC,2022-12-02,0.8,0.83,0.8,0.8,10287
 SOMOC,2022-12-05,0.82,0.82,0.82,0.82,3300

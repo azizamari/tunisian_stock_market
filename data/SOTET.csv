@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SOTET,2022-12-01,3.44,3.52,3.44,3.44,5630
 SOTET,2022-12-02,3.48,3.5,3.41,3.48,6142
 SOTET,2022-12-05,3.31,3.5,3.31,3.31,81

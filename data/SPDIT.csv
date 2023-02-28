@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SPDIT,2022-12-01,7.88,7.88,7.88,7.88,40
 SPDIT,2022-12-02,7.88,7.88,7.88,7.88,50
 SPDIT,2022-12-05,7.8,7.88,7.8,7.8,93

@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 NAKL,2022-12-01,11.5,11.5,11.35,11.5,325
 NAKL,2022-12-02,11.5,11.5,11.5,11.5,200
 NAKL,2022-12-06,11.7,11.7,11.5,11.7,500

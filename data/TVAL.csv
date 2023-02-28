@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 TVAL,2020-06-24,17.48,17.48,17.48,17.48,20004
 TVAL,2020-06-25,17.48,17.48,17.48,17.48,6440
 TVAL,2020-06-26,17.48,17.48,17.48,17.48,2736

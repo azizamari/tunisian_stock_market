@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 STIP,2022-12-05,4.36,4.56,4.36,4.36,224
 STIP,2022-12-06,4.55,4.55,4.36,4.55,45
 STIP,2022-12-09,5.0,5.0,4.96,5.0,14

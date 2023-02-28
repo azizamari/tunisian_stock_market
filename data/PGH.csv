@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 PGH,2022-12-01,8.31,8.47,8.31,8.31,19
 PGH,2022-12-02,8.47,8.47,8.45,8.47,4
 PGH,2022-12-06,8.45,8.96,8.45,8.45,352

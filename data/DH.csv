@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 DH,2022-12-01,12.62,13.2,12.62,12.62,547
 DH,2022-12-02,12.8,13.03,12.8,12.8,153
 DH,2022-12-05,12.99,13.28,12.99,12.99,189

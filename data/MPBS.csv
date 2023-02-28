@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 MPBS,2022-12-01,4.64,4.64,4.51,4.64,1
 MPBS,2022-12-05,4.6,4.64,4.6,4.6,253
 MPBS,2022-12-06,4.73,4.73,4.6,4.73,323

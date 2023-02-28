@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 LNDOR,2022-12-02,6.49,6.65,6.4,6.49,718
 LNDOR,2022-12-05,6.64,6.64,6.49,6.64,5
 LNDOR,2022-12-06,6.25,6.64,6.25,6.25,51927

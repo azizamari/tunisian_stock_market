@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 BTE,2022-12-01,6.37,6.37,6.37,6.37,1000
 BTE,2022-12-02,6.36,6.37,6.36,6.36,1100
 BTE,2022-12-05,6.36,6.36,6.36,6.36,138

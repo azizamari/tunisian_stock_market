@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 UADH,2022-12-02,0.41,0.42,0.41,0.41,730
 UADH,2022-12-05,0.42,0.42,0.41,0.42,5855
 UADH,2022-12-13,0.47,0.47,0.45,0.47,11408

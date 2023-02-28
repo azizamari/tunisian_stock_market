@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SMD,2022-12-05,1.83,1.91,1.83,1.83,115
 SMD,2022-12-06,1.75,1.9,1.75,1.75,450
 SMD,2022-12-07,1.71,1.75,1.71,1.71,60

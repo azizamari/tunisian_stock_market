@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 TLNET,2022-12-01,7.13,7.29,7.13,7.13,76
 TLNET,2022-12-02,7.23,7.23,7.1,7.23,501
 TLNET,2022-12-05,7.21,7.23,7.21,7.21,566

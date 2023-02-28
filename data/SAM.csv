@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SAM,2022-12-01,3.06,3.06,3.0,3.06,126
 SAM,2022-12-02,3.1,3.1,3.06,3.1,58
 SAM,2022-12-05,3.04,3.1,3.04,3.04,400

@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 AETEC,2022-12-08,0.9,0.9,0.88,0.9,6
 AETEC,2022-12-13,0.86,0.9,0.86,0.86,14
 AETEC,2022-12-14,0.84,0.86,0.84,0.84,1000

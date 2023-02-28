@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 HL,2022-12-07,4.16,4.28,4.16,4.16,4
 HL,2022-12-08,4.28,4.28,4.15,4.28,52
 HL,2022-12-12,4.47,4.47,4.28,4.47,5100

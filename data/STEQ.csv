@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 STEQ,2020-09-28,4.7,4.7,4.7,4.7,137
 STEQ,2020-10-12,4.56,4.56,4.56,4.56,100
 STEQ,2020-10-27,4.36,4.36,4.36,4.36,126

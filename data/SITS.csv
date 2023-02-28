@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 SITS,2022-12-12,1.87,1.87,1.86,1.87,1080
 SITS,2022-12-28,1.86,1.87,1.86,1.86,500
 SITS,2022-12-29,1.86,1.86,1.86,1.86,684

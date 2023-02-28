@@ -1,4 +1,4 @@
-symbole,date,ouverture,haut,bas,cloture,volume
+Ticker,Date,Open,High,Low,Close,Volume
 BNA,2022-12-01,8.9,8.93,8.9,8.9,4185
 BNA,2022-12-02,8.89,8.92,8.85,8.89,7101
 BNA,2022-12-05,8.85,8.89,8.8,8.85,11866
