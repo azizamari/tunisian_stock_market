@@ -8,7 +8,7 @@ def get_all_dates():
     while next_date<date(2023,1,1):
         calendar.append([str(start),str(next_date)])
         start=next_date
-        next_date = next_date + relativedelta(days=+89)
+        next_date = next_date + relativedelta(days=+85)
     next_date=date(2022,12,31)
     calendar.append([str(start),str(next_date)])
     return calendar
